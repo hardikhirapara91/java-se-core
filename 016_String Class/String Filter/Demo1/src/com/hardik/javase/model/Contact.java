@@ -1,5 +1,10 @@
 package com.hardik.javase.model;
 
+/**
+ * CONTACT CLASS
+ * 
+ * author: HARDIK HIRAPARA
+ */
 public class Contact {
 	private String name, email;
 
