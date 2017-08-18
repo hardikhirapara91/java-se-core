@@ -1,5 +1,10 @@
 package com.hardik.javase;
 
+/**
+ * Aggregation Class 
+ *
+ * author: HARDIK HIRAPARA
+ */
 public class Aggregation {
 
 	public static void main(String[] args) {
