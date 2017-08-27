@@ -22,6 +22,8 @@ public class ByteArrayOutput {
 		for (byte b : data) {
 			System.out.print(b + " ");
 		}
+
+		baos.close();
 	}
 
 }
