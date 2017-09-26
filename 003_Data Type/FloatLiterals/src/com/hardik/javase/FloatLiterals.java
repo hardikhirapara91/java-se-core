@@ -1,7 +1,7 @@
 package com.hardik.javase;
 
 /**
- * Double Literals
+ * Float Literals
  * 
  * @author HARDIK HIRAPARA
  *
