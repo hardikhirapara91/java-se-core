@@ -5,8 +5,7 @@ Remaining Topics:
 * Thread Group
 * Shutdown Hook
 * Performing Multiplu Task
-* Synchronized block
-* Static synchronization
+* Java Synchronization
 * Deadlock in Java
 * Inter-thread Communication
 * Interrupting Thread
