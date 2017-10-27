@@ -1,7 +1,7 @@
 package com.hardik.javase;
 
 /**
- * Hello world!
+ * Do-While Loop Example
  *
  */
 public class App {
