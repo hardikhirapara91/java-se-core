@@ -13,15 +13,17 @@ import java.util.List;
 public class DeepEqualsDemo {
 
 	public static void main(String[] args) {
-		List<String[][]> list1 = new ArrayList<String[][]>();
 		String[][] s1 = { { "1", "2" }, { "1", "2" } };
 		String[][] s2 = { { "3", "4" }, { "3", "4" } };
+		
+		List<String[][]> list1 = new ArrayList<String[][]>();
 		list1.add(s1);
 		list1.add(s2);
 
-		List<String[][]> list2 = new ArrayList<String[][]>();
 		String[][] s3 = { { "1", "2" }, { "1", "2" } };
 		String[][] s4 = { { "3", "4" }, { "3", "4" } };
+		
+		List<String[][]> list2 = new ArrayList<String[][]>();
 		list2.add(s3);
 		list2.add(s4);
 
