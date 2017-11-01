@@ -1,4 +1,4 @@
-package methods;
+package com.hardik.javase;
 
 /**
  * Java String intern() Method
