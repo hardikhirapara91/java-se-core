@@ -4,7 +4,7 @@ import java.util.Scanner;
 import java.util.StringJoiner;
 
 /**
- * Sum of provided numbers
+ * Java String Joiner Example
  * 
  * @author HARDIK HIRAPARA
  *

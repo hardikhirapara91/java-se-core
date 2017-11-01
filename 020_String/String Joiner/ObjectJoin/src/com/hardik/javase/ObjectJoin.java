@@ -7,7 +7,7 @@ import java.util.stream.Collectors;
 import com.hardik.javase.model.Game;
 
 /**
- * Sum of provided numbers
+ * Java String Joining Example
  * 
  * @author HARDIK HIRAPARA
  *
