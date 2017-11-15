@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to JavaSE Core Example Page (Hardik Hirapara)
 
 You can use the [editor on GitHub](https://github.com/hardikhirapara91/java-se-core/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
