@@ -10,7 +10,7 @@ import java.util.regex.Pattern;
 public class App {
 	public static void main(String[] args) {
 
-		System.out.println("metacharacters d....(means digit)");
+		System.out.println("Metacharacters d....(means digit)");
 		// false (non-digit)
 		System.out.println(Pattern.matches("\\d", "abc"));
 		// true (digit and comes once)
@@ -20,7 +20,7 @@ public class App {
 		// false (digit and char)
 		System.out.println(Pattern.matches("\\d", "323abc"));
 
-		System.out.println("metacharacters D....(means non-digit)");
+		System.out.println("Metacharacters D....(means non-digit)");
 		// false (non-digit but comes more than once)
 		System.out.println(Pattern.matches("\\D", "abc"));
 		// false (digit)
@@ -32,7 +32,7 @@ public class App {
 		// true (non-digit and comes once)
 		System.out.println(Pattern.matches("\\D", "m"));
 
-		System.out.println("metacharacters D with quantifier....");
+		System.out.println("Metacharacters D with quantifier....");
 		// true (non-digit and may come 0 or more times)
 		System.out.println(Pattern.matches("\\D*", "mak"));
 
