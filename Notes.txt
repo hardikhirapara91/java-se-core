@@ -16,6 +16,8 @@ Parallel Array Sorting
 Java PushbackInputStream Class
 Java PushbackReader Class
 Java FilterWriter / FilterReader Class
+Java PipedInputStream And PipedOutputStream classes Using Threads
+
 ---------------------------
 Advanced Topics
 ---------------------------
