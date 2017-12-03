@@ -7,7 +7,9 @@ package com.hardik.javase;
  *
  */
 public class HelloWorld {
-
+	/**
+	 * Application Main Method
+	 */
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
 	}
