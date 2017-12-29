@@ -5,6 +5,11 @@ Java Thread Pool
 ThreadGroup in Java
 Java Shutdown Hook
 How to perform single task by multiple threads?
+Static synchronization
+Deadlock in java
+Inter-thread communication in Java
+Interrupting a Thread
+Reentrant Monitor in Java
 
 Stack Class
 Returning Objects
