@@ -23,6 +23,8 @@ Java PushbackReader Class
 Java StringWriter Class
 Java StringReader Class
 
+How to call private method from another class in java
+
 Stack Class
 Returning Objects
 Recursion
