@@ -1,5 +1,7 @@
 package com.hardik.javase;
 
+import com.hardik.javase.model.*;
+
 /**
  * Private Access Modifier
  * 

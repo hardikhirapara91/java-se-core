@@ -1,4 +1,4 @@
-package com.hardik.javase;
+package com.hardik.javase.model;
 
 /**
  * Student Class
