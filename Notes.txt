@@ -26,7 +26,8 @@ Java StringReader Class
 Java Queue Interface
 Java Deque Interface
 
-EnumSet
+Java EnumSet Class
+Java EnumMap Class
 
 How to call private method from another class in java
 
