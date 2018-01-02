@@ -23,6 +23,10 @@ Java PushbackReader Class
 Java StringWriter Class
 Java StringReader Class
 
+Java Queue Interface
+Java Deque Interface
+
+
 How to call private method from another class in java
 
 Stack Class
